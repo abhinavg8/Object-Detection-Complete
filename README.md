@@ -1,7 +1,7 @@
 # Object-Detection-Complete
 
-# Table of Content:
-    * Contour Detection
+# Table of Content : 
+   * Contour Detection
     * Corner Detection
     * Edge Detection
     * Face Detection
